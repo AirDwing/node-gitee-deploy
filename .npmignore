@@ -1,0 +1,7 @@
+node_modules/
+
+.DS_Store
+dump.rdb
+*.log
+*.log.*
+*.demo.js

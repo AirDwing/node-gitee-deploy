@@ -1,0 +1,32 @@
+{
+  "name": "gitee-deploy",
+  "version": "0.0.1",
+  "description": "gitee.com Deployer",
+  "main": "src/server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AirDwing/node-gitee-deploy.git"
+  },
+  "keywords": [
+    "auto",
+    "deploy",
+    "deployer",
+    "ci",
+    "gitee"
+  ],
+  "author": "zhangyf92",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AirDwing/node-gitee-deploy/issues"
+  },
+  "homepage": "https://github.com/AirDwing/node-gitee-deploy#readme",
+  "devDependencies": {
+    "@dwing/common": "^1.1.2",
+    "@dwing/redis": "^1.0.0",
+    "eslint": "^3.19.0",
+    "eslint-config-dwing": "^1.0.2"
+  },
+  "dependencies": {
+    "bl": "^1.2.1"
+  }
+}
